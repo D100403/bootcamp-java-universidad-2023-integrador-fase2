@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+D:\desarrollo\educationit\bootcamp-java-universidad-2023-fase2\java\.metadata\.plugins\org.eclipse.jdt.core
+2116984632.index
+794726865.index
+1865797976.index
